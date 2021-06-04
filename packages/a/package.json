@@ -6,5 +6,6 @@
   "dependencies": {
     "axios": "^0.21.1",
     "vue": "2.6.10"
-  }
+  },
+  "gitHead": "684f945d8f7ddc50bf1b015063dc91e761f0c631"
 }
